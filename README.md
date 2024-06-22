@@ -10,4 +10,7 @@
 ## License
 
 _KIPTOO CALEB_
+
 - Courtesy of `vCard`
+
+MIT
