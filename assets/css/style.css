@@ -1892,9 +1892,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 #buy-me-coffee-section {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   max-width: 300px; /* Adjust the max-width as needed */
-  gap: 50px;
+  /* gap: 50px; */
 }
 
 #buy-me-coffee-section a {
@@ -1904,7 +1904,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   text-decoration: none;
   width: 300px;
   align-items: center;
-  height: 50px; /* Set a more reasonable height for the text box */
+  height: 70px; /* Set a more reasonable height for the text box */
   padding: 2px; /* Padding for spacing */
   border: none; /* Optional: Add border to visualize the text box */
   border-radius: 10px; /* Optional: Add border radius for rounded corners */
@@ -1915,10 +1915,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   margin-right: 5px; /* Adjust margin between icon and text */
 }
 
-#buy-me-coffee-section span {
-  line-height: 1; /* Ensures text is vertically centered */
-  font-size: 12px; /* Adjust font size as needed */
-}
 
 .parent-container {
   display: flex;
