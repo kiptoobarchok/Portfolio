@@ -730,16 +730,16 @@ main {
  * #clients 
  */
 
-.clients { margin-bottom: 15px; }
+.clients { margin-bottom: 15px; margin-right: 5px;}
 
 .clients-list {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 15px;
-  margin: 0 -15px;
-  padding: 25px;
-  padding-bottom: 25px;
+  gap: 5px;
+  margin: 5px;
+  padding: 10px;
+  padding-bottom: 10px;
   overflow-x: auto;
   scroll-behavior: smooth;
   overscroll-behavior-inline: contain;
@@ -748,12 +748,12 @@ main {
 }
 
 .clients-item {
-  min-width: 50%;
+  /* min-width: 10%; */
   scroll-snap-align: start;
 }
 
 .clients-item img {
-  width: 100%;
+  width: 30%;
   filter: grayscale(1);
   transition: var(--transition-1);
 }
