@@ -9,6 +9,5 @@
 
 ## License
 
-KIPTOO CALEB
-
-Courtesy of `vCard`
+_KIPTOO CALEB_
+- Courtesy of `vCard`
