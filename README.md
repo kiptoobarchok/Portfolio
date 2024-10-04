@@ -5,4 +5,4 @@
 # Deployment
 
 I have hosted this website using netlify :
-- To see live visit [here]()
+- To see live visit [here](https://kiptoobarchok.netlify.app/)
